@@ -13,6 +13,6 @@ Voice options: hts_tamil_female, hts_tamil_male
    http://speech.ssn.edu.in/SpeechSynthesis/wav/<wav_file>
 
 
-Bash script wrapper for TTS - `Link`
+Bash script wrapper for TTS - `Link`_
 
   .. _Link: ./play.sh
