@@ -11,4 +11,4 @@ Text-to-Speech Synthesis(TTS)
 Existing TTS
 ------------
 
-* http://speech.ssn.edu.in/SpeechSynthesis/  -  `API <./TTS/TTS_by_SSN.rst/>`_
+* http://speech.ssn.edu.in/SpeechSynthesis/  -  `API <./TTS/TTS_by_SSN//>`_

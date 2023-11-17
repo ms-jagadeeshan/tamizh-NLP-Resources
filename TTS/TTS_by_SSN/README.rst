@@ -15,4 +15,4 @@ Voice options: hts_tamil_female, hts_tamil_male
 
 Bash script wrapper for TTS - `Link`_
 
-  .. _Link: ./play.sh
+  .. _Link: ./txt2speech.sh
